@@ -1,1 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sadiya | AI/ML Portfolio</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background: #0f172a;
+      color: #e2e8f0;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+      padding: 60px 20px;
+      background: linear-gradient(135deg, #1e293b, #0f172a);
+    }
+
+    header h1 {
+      font-size: 40px;
+      color: #38bdf8;
+    }
+
+    header p {
+      margin-top: 10px;
+      color: #94a3b8;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    .card {
+      background: #1e293b;
+      padding: 20px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    }
+
+    h2 {
+      color: #38bdf8;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+
+    .tag {
+      display: inline-block;
+      background: #334155;
+      padding: 5px 10px;
+      border-radius: 20px;
+      margin: 5px;
+      font-size: 12px;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 15px;
+      background: #38bdf8;
+      color: #0f172a;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #94a3b8;
+      border-top: 1px solid #1e293b;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Hi, I'm Sadiya 👋</h1>
+  <p>AI/ML Enthusiast | CSE Undergraduate | Aspiring Software Engineer</p>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>About Me</h2>
+    <p>
+      Computer Science Engineering student passionate about Artificial Intelligence,
+      Machine Learning, and building real-world impactful solutions.
+      Currently exploring Deep Learning, Data Science, and System Design.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Skills</h2>
+    <div>
+      <span class="tag">C</span>
+      <span class="tag">C++</span>
+      <span class="tag">Java</span>
+      <span class="tag">JavaScript</span>
+      <span class="tag">Python</span>
+      <span class="tag">HTML</span>
+      <span class="tag">CSS</span>
+      <span class="tag">React</span>
+      <span class="tag">Node.js</span>
+      <span class="tag">MongoDB</span>
+      <span class="tag">MySQL</span>
+      <span class="tag">AWS Basics</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Projects</h2>
+    <ul>
+      <li>Personal Expense Navigator – Finance tracking system</li>
+      <li>Doctor on Call App – Healthcare service platform</li>
+      <li>Internet Saver – Data management concept app</li>
+    </ul>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Current Focus</h2>
+      <ul>
+        <li>Data Structures & Algorithms</li>
+        <li>Machine Learning Fundamentals</li>
+        <li>Open Source (GSSoC)</li>
+        <li>AI Applications</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Goals</h2>
+      <ul>
+        <li>AI/ML Internships</li>
+        <li>Open Source Contributions</li>
+        <li>Real-world AI Projects</li>
+        <li>Strong DS & Algo foundation</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Connect With Me</h2>
+    <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/Sadiyaas" style="color:#38bdf8;">Profile</a></p>
+    <p>📧 Email: Sadiyasanadi91@gmail.com</p>
+    <a class="btn" href="https://github.com/">Visit GitHub</a>
+  </div>
+
+</div>
+
+<footer>
+  ⭐ "Building consistency in AI/ML learning and impactful systems step by step."
+</footer>
+
+</body>
+</html>
 
