@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sadiya
 
-🤖 AI/ML Student | 💻 CSE Undergraduate | 🚀 Aspiring Software Engineer | 🌐 Open Source Contributor  
+🤖 AI/ML Enthusiast | 💻 CSE Undergraduate | 🚀 Aspiring Software Engineer | 🌐 Open Source Contributor  
 
 ---
 
@@ -15,12 +15,11 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: C, C++, Java, JavaScript, Kotlin  
-- 📊 AI/ML: Python (Basics), NumPy, Pandas, Scikit-learn (learning stage)  
-- 🌐 Web: HTML, CSS, React, Node.js, Express  
-- 🗄️ Database: MongoDB, MySQL  
-- ☁️ Cloud: AWS (Basics)  
-- 📱 Mobile: Kotlin, Jetpack Compose  
+- 💻 Languages: C, C++, Java, JavaScript, Python (learning)
+- 📊 AI/ML: NumPy, Pandas, Scikit-learn (beginner level)
+- 🌐 Web: HTML, CSS, React, Node.js, Express
+- 🗄️ Database: MongoDB, MySQL
+- ☁️ Cloud: AWS (Basics)
 
 ---
 
@@ -40,7 +39,7 @@
 ---
 
 ## 📫 Connect with Me
-- 🔗 LinkedIn: [Connect Here](https://www.linkedin.com/in/Sadiyaas)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/Sadiyaas  
 - 📧 Email: Sadiyasanadi91@gmail.com  
 
 ---
